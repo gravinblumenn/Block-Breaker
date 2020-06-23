@@ -7,6 +7,7 @@ public class Block : MonoBehaviour
     [SerializeField] AudioClip breakSound;
     [SerializeField] GameObject blockSparklesVFX;
     [SerializeField] int maxHits;
+    [SerializeField] Sprite[] hitSprites;
      
      //cached reference
      Level level;
@@ -19,14 +20,24 @@ public class Block : MonoBehaviour
         {
             HandleHit();
         }
+        
+    }
+    private void ShowNextHitSprite()
+    {
+        int spriteIndex = timesHit - 1;
+        GetComponent<SpriteRenderer>().sprite = hitSprites[spriteIndex];
     }
 
     private void HandleHit()
     {
-        timesHit++;
-        if (timesHit >= maxHits)
+         timesHit++;
+         if (timesHit >= maxHits)
         {
-            DestroyBlock();
+             DestroyBlock();
+        }
+        else 
+        {
+            ShowNextHitSprite();
         }
     }
 
@@ -63,7 +74,7 @@ public class Block : MonoBehaviour
         level = FindObjectOfType<Level>();
         if (tag == "Breakable")
         {
-            level.CountBlocks();
+            level.CountBreakableBlocks();
         }
     }
 }
