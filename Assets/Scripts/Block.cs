@@ -18,6 +18,9 @@ public class Block : MonoBehaviour
         AudioSource.PlayClipAtPoint(breakSound, Camera.main.transform.position, 1f);
         Destroy(gameObject, 0f);
         level.BlockDestroyed();
+        
+        //adds score per block destroyed
+        FindObjectOfType<GameStatus>().AddToScore();
     }
 
     private void Start()
