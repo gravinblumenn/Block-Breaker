@@ -11,8 +11,8 @@ GameObject:
   - component: {fileID: 67039458243519650}
   - component: {fileID: 67039458243519651}
   - component: {fileID: 67039458243519648}
-  - component: {fileID: 67039458243519581}
   - component: {fileID: 67039458243519580}
+  - component: {fileID: 927938589}
   m_Layer: 0
   m_Name: Whale Paddle
   m_TagString: Untagged
@@ -105,7 +105,22 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!60 &67039458243519581
+--- !u!114 &67039458243519580
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 67039458243519649}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13c490c146b12944d97889c181a6701a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  screenWidth: 16
+  mouseMin: 1
+  mouseMax: 15
+--- !u!60 &927938589
 PolygonCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -130,30 +145,13 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: 0.01894751, y: 0.074817315}
-      - {x: -0.029088637, y: 0.07390583}
-      - {x: -0.13441633, y: 0.072850525}
-      - {x: -0.19149956, y: 0.031894986}
-      - {x: -0.19317329, y: -0.08024248}
-      - {x: -0.1925797, y: -0.08677551}
-      - {x: -0.083817944, y: -0.09061725}
-      - {x: 0.010842157, y: -0.091877535}
-      - {x: 0.16763906, y: -0.09202806}
-      - {x: 0.21757813, y: 0.02854237}
-      - {x: 0.21426858, y: 0.029770354}
-      - {x: 0.15416576, y: 0.074817315}
---- !u!114 &67039458243519580
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 67039458243519649}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 13c490c146b12944d97889c181a6701a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  screenWidth: 16
-  mouseMin: 1
-  mouseMax: 15
+    - - {x: -0.11077072, y: 0.088589765}
+      - {x: -0.21391033, y: 0.034037944}
+      - {x: -0.21282025, y: -0.0117313545}
+      - {x: -0.21185887, y: -0.043781962}
+      - {x: -0.21096162, y: -0.06666667}
+      - {x: -0.03852555, y: -0.08833287}
+      - {x: 0.10038453, y: -0.08640978}
+      - {x: 0.20128162, y: 0.008589808}
+      - {x: 0.20128222, y: 0.045576666}
+      - {x: 0.09487021, y: 0.08955132}
