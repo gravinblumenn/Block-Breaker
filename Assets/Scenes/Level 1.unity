@@ -133,6 +133,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Block (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -207,6 +212,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Blue Block (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
@@ -338,11 +348,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5655419045162183381, guid: bdf2a15f1ac65dd4a9cd0439fef6db41,
-        type: 3}
-      propertyPath: scoreText
-      value: 
-      objectReference: {fileID: 0}
     - target: {fileID: 8194051034646343762, guid: bdf2a15f1ac65dd4a9cd0439fef6db41,
         type: 3}
       propertyPath: m_Name
@@ -361,6 +366,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Blue Block
+      objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
@@ -436,6 +446,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Blue Block (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
@@ -523,6 +538,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Blue Block (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
@@ -614,6 +634,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Block (37)
       objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -689,6 +714,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Block (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -763,6 +793,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Blue Block (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
@@ -854,6 +889,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Block (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -929,6 +969,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Block (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1003,6 +1048,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Blue Block (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
@@ -1166,6 +1216,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Block (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1240,6 +1295,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Blue Block (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
@@ -1331,6 +1391,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Block (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1421,6 +1486,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Block (31)
       objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1495,6 +1565,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Blue Block (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
@@ -1586,6 +1661,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Block (40)
       objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1676,6 +1756,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Block (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1750,6 +1835,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Blue Block (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
@@ -1841,6 +1931,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Block (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1916,6 +2011,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Block (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1990,6 +2090,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Blue Block (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
@@ -2081,6 +2186,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Block (33)
       objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2155,6 +2265,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Blue Block (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
@@ -2246,6 +2361,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Block (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2320,6 +2440,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Blue Block (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
@@ -2471,6 +2596,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Block (36)
       objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2605,6 +2735,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Block (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2694,6 +2829,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Blue Block (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
@@ -2785,6 +2925,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Block (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2859,6 +3004,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Blue Block (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
@@ -2935,6 +3085,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Block (35)
       objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3009,6 +3164,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Blue Block (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
@@ -3085,6 +3245,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Block (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3159,6 +3324,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Blue Block (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
@@ -3235,6 +3405,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Block (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3309,6 +3484,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Blue Block (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
@@ -3385,6 +3565,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Block (39)
       objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3459,6 +3644,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Blue Block (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
@@ -3550,6 +3740,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Block (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3624,6 +3819,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Blue Block (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6237329891002099268, guid: c8e03fbc78a964b4db0788d585b004ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6237329891002099274, guid: c8e03fbc78a964b4db0788d585b004ff,
         type: 3}
