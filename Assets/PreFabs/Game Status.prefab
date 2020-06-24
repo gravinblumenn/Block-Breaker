@@ -75,6 +75,63 @@ PrefabInstance:
       propertyPath: m_fontColor.b
       value: 0.0141509175
       objectReference: {fileID: 0}
+    - target: {fileID: 2640033080828796327, guid: 40f28cfddfb9baa4698d714c6ee75192,
+        type: 3}
+      propertyPath: m_text
+      value: SCORE
+      objectReference: {fileID: 0}
+    - target: {fileID: 2640033080828796327, guid: 40f28cfddfb9baa4698d714c6ee75192,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: b5c54a7019cf3634cabdc3b44ad1fe48,
+        type: 2}
+    - target: {fileID: 2640033080828796327, guid: 40f28cfddfb9baa4698d714c6ee75192,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: -5086205867119750210, guid: b5c54a7019cf3634cabdc3b44ad1fe48,
+        type: 2}
+    - target: {fileID: 2640033080828796327, guid: 40f28cfddfb9baa4698d714c6ee75192,
+        type: 3}
+      propertyPath: m_textInfo.characterCount
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3303174126942398482, guid: 40f28cfddfb9baa4698d714c6ee75192,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.7707499
+      objectReference: {fileID: 0}
+    - target: {fileID: 3303174126942398482, guid: 40f28cfddfb9baa4698d714c6ee75192,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.9187009
+      objectReference: {fileID: 0}
+    - target: {fileID: 3303174126942398482, guid: 40f28cfddfb9baa4698d714c6ee75192,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.9522222
+      objectReference: {fileID: 0}
+    - target: {fileID: 3303174126942398482, guid: 40f28cfddfb9baa4698d714c6ee75192,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3303174126942398482, guid: 40f28cfddfb9baa4698d714c6ee75192,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3303174126942398482, guid: 40f28cfddfb9baa4698d714c6ee75192,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: -2.4024658
+      objectReference: {fileID: 0}
+    - target: {fileID: 3303174126942398482, guid: 40f28cfddfb9baa4698d714c6ee75192,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: -2.84729
+      objectReference: {fileID: 0}
     - target: {fileID: 4543858257930770630, guid: 40f28cfddfb9baa4698d714c6ee75192,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
